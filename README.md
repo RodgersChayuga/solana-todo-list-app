@@ -1,4 +1,4 @@
-# Mint Your First NFT
+# Build Your First DApp
 
 This is a learning track at Calyptus.co [Build Your First DApp](https://calyptus.co/lessons/building-a-to-do-list-with-anchor/).
 
